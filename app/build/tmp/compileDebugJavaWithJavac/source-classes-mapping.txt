@@ -1,0 +1,2 @@
+mx/tecnm/tepic/u3p1_bdsqlite/BuildConfig.java
+ mx.tecnm.tepic.u3p1_bdsqlite.BuildConfig
